@@ -4,6 +4,7 @@ Menggunakan bahasa pemrograman untuk menyelesaikan permasalahan fisika. Metode y
 
 # Directory
 
+``` 
 ├── Fisika Kuantum - Menggunakan metode FDTD
 ├── Fisika Matematika - Pemanfaatan module python
 ├── Mekanika Klasik - Menggunakan metode Verlet
@@ -11,5 +12,6 @@ Menggunakan bahasa pemrograman untuk menyelesaikan permasalahan fisika. Metode y
 ├── Persamaan Differensial
 ├── .gitignore
 └── README.md
+```
 
 _sumber rujukan utama_ : [Metode Numerik](https://books.google.co.id/books/about/Metode_Numerik.html?id=FkMaEAAAQBAJ&redir_esc=y)
